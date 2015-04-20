@@ -1,0 +1,39 @@
+================================================================================
+                          STM8S-Discovery_dev PACKAGE
+                                 Release Notes
+================================================================================
+
+V3.0 / 15-MAR-2011
+------------------
+ - Content:
+	o STM8 Touch Sensing Library V2.3.1
+	o STM8S Standard Peripherals Library V2.0.0
+	o All examples are provided with Cosmic, Raisonance and IAR projects.
+        o Application firmware examples part of this development package are :
+          AN3279 V2.0
+          AN3280 V2.0      
+          AN3332 V2.0    
+	Note: The IAR project is validated with EWSTM8 V1.30 (it will not work with earlier versions) 
+	
+V2.0 / 22-DEC-2009
+------------------
+ - Package modification
+  
+   o Added the Project_template directory that can be used for
+     custom project development.
+
+V1.1 / 01-DEC-2009
+--------------------
+
+ - Content:
+
+   o STM8 TOUCH SENSING LIBRARY V1.3.0
+   o STM8S Standard Peripherals Library V1.1.1
+   o STM8S PWM, ADC and Discover examples
+      ADC is provided with both Cosmic and Raisonance projects
+      PWM is provided with both Cosmic and Raisonance projects 
+      Discover is provided only with Cosmic project because
+      STM8 touch sensing library V1.3.0 is not compatible w/ Raisonance yet.
+
+
+   
